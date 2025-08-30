@@ -26,7 +26,7 @@ This is the **frontend** for the Task Scheduler project. It communicates with th
 
 ## Installation
 
-Clone the repo:
+Clone the repo: https://github.com/ArtakKspoyan1990/front-task-scheduling.git
 
 ```bash
 git clone <frontend-repo-url> frontend
